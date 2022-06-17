@@ -1,0 +1,111 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Montserrat';
+    /* font-weight: 400; */
+    font-style: normal;
+}
+
+:root {
+    --text-font-weight: 700;
+    --text-whait-color:#FFFFFF;
+    --color-backgrount-blue: #23A6F0;
+    --text-weight-normal: 400;
+    --text-color-dark: #252B42;
+    --text-color-lite: #737373;
+    --primary-font-size: 14px;
+    --font-sixi-h2: 24px;
+    --primary-color: #23A6F0;
+    --light-color: #fff;
+    --text-color-h3: #252B42;
+    --text-color-description: #737373;
+    --font-weigth-text: 400;
+    --font-weigth-text-bold: 700;
+}
